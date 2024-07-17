@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @KyyleWhite
+- 📚 I'm a student at Pepperdine University
+- 👀 I’m interested in AI & ML to solve real world problems
+- 🌱 I’m currently learning Data Structures & Algorithms, Linear Algebra, and JavaScript
+- 📫 My email is kylejwhite0904@gmail.com
+- ⚡ Fun fact: I studied abroad in Switzerland for my entire Sophomore year
